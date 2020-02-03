@@ -1,2 +1,2 @@
 #!/bin/bash
-echo $(($BREATH sqr $LOVE))
+echo $[$BREATH ** $LOVE]
